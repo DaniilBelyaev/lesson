@@ -1,2 +1,2 @@
-Nahren etot hello worlld
-print("zalupa")
+Nahren etot hello worlld;
+print("zalupa");
