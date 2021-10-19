@@ -1,4 +1,5 @@
-Nahren etot hello worlld
-print("zalupa")
-print("Bila staraia zallupa, teper novaia")
-print("another one zallupa")
+Nahren etot hello worlld;
+print("zalupa");
+print("Bila staraia zallupa, teper novaia");
+print("another one zallupa");
+
