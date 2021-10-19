@@ -1,3 +1,5 @@
 Nahren etot hello worlld;
 print("zalupa");
-print("Where is new zallupa")
+print("Bila staraia zallupa, teper novaia");
+print("another one zallupa");
+
