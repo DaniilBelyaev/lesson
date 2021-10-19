@@ -1,1 +1,2 @@
-Nahren etot hello worlld 
+Nahren etot hello worlld
+print("zalupa")
